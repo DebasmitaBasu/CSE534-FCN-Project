@@ -1,0 +1,346 @@
+Microsoft Windows [Version 10.0.18362.476]
+(c) 2019 Microsoft Corporation. All rights reserved.
+
+C:\Users\Aiswarya>ping www.google.com
+
+Pinging www.google.com [172.217.11.4] with 32 bytes of data:
+Reply from 172.217.11.4: bytes=32 time=5ms TTL=56
+Reply from 172.217.11.4: bytes=32 time=5ms TTL=56
+Reply from 172.217.11.4: bytes=32 time=7ms TTL=56
+Reply from 172.217.11.4: bytes=32 time=5ms TTL=56
+
+Ping statistics for 172.217.11.4:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 5ms, Maximum = 7ms, Average = 5ms
+
+C:\Users\Aiswarya>ping www.amazon.com
+
+Pinging d3ag4hukkh62yn.cloudfront.net [13.225.231.227] with 32 bytes of data:
+Reply from 13.225.231.227: bytes=32 time=7ms TTL=239
+Reply from 13.225.231.227: bytes=32 time=5ms TTL=239
+Reply from 13.225.231.227: bytes=32 time=5ms TTL=239
+Reply from 13.225.231.227: bytes=32 time=4ms TTL=239
+
+Ping statistics for 13.225.231.227:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 7ms, Average = 5ms
+
+C:\Users\Aiswarya>ping www.netflix.com
+
+Pinging www.us-east-1.prodaa.netflix.com [52.201.17.165] with 32 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 52.201.17.165:
+    Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
+
+C:\Users\Aiswarya>
+
+C:\Users\Aiswarya>ping www.youtube.com
+
+Pinging youtube-ui.l.google.com [172.217.12.142] with 32 bytes of data:
+Reply from 172.217.12.142: bytes=32 time=5ms TTL=56
+Request timed out.
+Reply from 172.217.12.142: bytes=32 time=5ms TTL=56
+Reply from 172.217.12.142: bytes=32 time=5ms TTL=56
+
+Ping statistics for 172.217.12.142:
+    Packets: Sent = 4, Received = 3, Lost = 1 (25% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 5ms, Maximum = 5ms, Average = 5ms
+
+C:\Users\Aiswarya>ping netflix.com
+
+Pinging netflix.com [52.201.200.150] with 32 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 52.201.200.150:
+    Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
+
+C:\Users\Aiswarya>ping youtube.com
+
+Pinging youtube.com [172.217.10.78] with 32 bytes of data:
+Reply from 172.217.10.78: bytes=32 time=4ms TTL=56
+Reply from 172.217.10.78: bytes=32 time=5ms TTL=56
+Reply from 172.217.10.78: bytes=32 time=7ms TTL=56
+Reply from 172.217.10.78: bytes=32 time=6ms TTL=56
+
+Ping statistics for 172.217.10.78:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 7ms, Average = 5ms
+
+C:\Users\Aiswarya>ping https://amazon.com/video
+Ping request could not find host https://amazon.com/video. Please check the name and try again.
+
+C:\Users\Aiswarya>ping amazon.com/video
+Ping request could not find host amazon.com/video. Please check the name and try again.
+
+C:\Users\Aiswarya>ping amazon.com
+
+Pinging amazon.com [176.32.98.166] with 32 bytes of data:
+Reply from 176.32.98.166: bytes=32 time=16ms TTL=235
+Reply from 176.32.98.166: bytes=32 time=13ms TTL=235
+Reply from 176.32.98.166: bytes=32 time=10ms TTL=235
+Reply from 176.32.98.166: bytes=32 time=10ms TTL=235
+
+Ping statistics for 176.32.98.166:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 10ms, Maximum = 16ms, Average = 12ms
+
+C:\Users\Aiswarya>ping youtube.com
+
+Pinging youtube.com [172.217.10.78] with 32 bytes of data:
+Reply from 172.217.10.78: bytes=32 time=6ms TTL=56
+Reply from 172.217.10.78: bytes=32 time=4ms TTL=56
+Reply from 172.217.10.78: bytes=32 time=5ms TTL=56
+Reply from 172.217.10.78: bytes=32 time=5ms TTL=56
+
+Ping statistics for 172.217.10.78:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 6ms, Average = 5ms
+
+C:\Users\Aiswarya>ping netflix.com
+
+Pinging netflix.com [52.54.154.226] with 32 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 52.54.154.226:
+    Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
+
+C:\Users\Aiswarya>ping youtube.com
+
+Pinging youtube.com [172.217.10.78] with 32 bytes of data:
+Reply from 172.217.10.78: bytes=32 time=6ms TTL=56
+Reply from 172.217.10.78: bytes=32 time=5ms TTL=56
+Reply from 172.217.10.78: bytes=32 time=6ms TTL=56
+Reply from 172.217.10.78: bytes=32 time=7ms TTL=56
+
+Ping statistics for 172.217.10.78:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 5ms, Maximum = 7ms, Average = 6ms
+
+C:\Users\Aiswarya>ping youtube.com
+
+Pinging youtube.com [172.217.10.78] with 32 bytes of data:
+Reply from 172.217.10.78: bytes=32 time=6ms TTL=56
+Reply from 172.217.10.78: bytes=32 time=6ms TTL=56
+Reply from 172.217.10.78: bytes=32 time=5ms TTL=56
+Reply from 172.217.10.78: bytes=32 time=5ms TTL=56
+
+Ping statistics for 172.217.10.78:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 5ms, Maximum = 6ms, Average = 5ms
+
+C:\Users\Aiswarya>ping youtube.com
+
+Pinging youtube.com [172.217.10.78] with 32 bytes of data:
+Reply from 172.217.10.78: bytes=32 time=5ms TTL=56
+Reply from 172.217.10.78: bytes=32 time=5ms TTL=56
+Reply from 172.217.10.78: bytes=32 time=6ms TTL=56
+Reply from 172.217.10.78: bytes=32 time=5ms TTL=56
+
+Ping statistics for 172.217.10.78:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 5ms, Maximum = 6ms, Average = 5ms
+
+C:\Users\Aiswarya>ping youtube.com
+
+Pinging youtube.com [172.217.10.78] with 32 bytes of data:
+Reply from 172.217.10.78: bytes=32 time=4ms TTL=56
+Reply from 172.217.10.78: bytes=32 time=5ms TTL=56
+Reply from 172.217.10.78: bytes=32 time=5ms TTL=56
+Reply from 172.217.10.78: bytes=32 time=5ms TTL=56
+
+Ping statistics for 172.217.10.78:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 5ms, Average = 4ms
+
+C:\Users\Aiswarya>ping youtube.com
+
+Pinging youtube.com [172.217.10.78] with 32 bytes of data:
+Reply from 172.217.10.78: bytes=32 time=5ms TTL=56
+Reply from 172.217.10.78: bytes=32 time=8ms TTL=56
+Reply from 172.217.10.78: bytes=32 time=6ms TTL=56
+Reply from 172.217.10.78: bytes=32 time=5ms TTL=56
+
+Ping statistics for 172.217.10.78:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 5ms, Maximum = 8ms, Average = 6ms
+
+C:\Users\Aiswarya>ping amazon.com
+
+Pinging amazon.com [176.32.103.205] with 32 bytes of data:
+Reply from 176.32.103.205: bytes=32 time=10ms TTL=233
+Reply from 176.32.103.205: bytes=32 time=10ms TTL=233
+Reply from 176.32.103.205: bytes=32 time=10ms TTL=233
+Reply from 176.32.103.205: bytes=32 time=11ms TTL=233
+
+Ping statistics for 176.32.103.205:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 10ms, Maximum = 11ms, Average = 10ms
+
+C:\Users\Aiswarya>ping amazon.com
+
+Pinging amazon.com [205.251.242.103] with 32 bytes of data:
+Reply from 205.251.242.103: bytes=32 time=10ms TTL=235
+Reply from 205.251.242.103: bytes=32 time=17ms TTL=235
+Reply from 205.251.242.103: bytes=32 time=11ms TTL=235
+Reply from 205.251.242.103: bytes=32 time=10ms TTL=235
+
+Ping statistics for 205.251.242.103:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 10ms, Maximum = 17ms, Average = 12ms
+
+C:\Users\Aiswarya>ping www.amazon.com
+
+Pinging e15316.e22.akamaiedge.net [23.192.54.52] with 32 bytes of data:
+Reply from 23.192.54.52: bytes=32 time=5ms TTL=57
+Reply from 23.192.54.52: bytes=32 time=5ms TTL=57
+Reply from 23.192.54.52: bytes=32 time=5ms TTL=57
+Reply from 23.192.54.52: bytes=32 time=5ms TTL=57
+
+Ping statistics for 23.192.54.52:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 5ms, Maximum = 5ms, Average = 5ms
+
+C:\Users\Aiswarya>ping www.amazon.com
+
+Pinging e15316.e22.akamaiedge.net [23.192.54.52] with 32 bytes of data:
+Reply from 23.192.54.52: bytes=32 time=7ms TTL=57
+Request timed out.
+Reply from 23.192.54.52: bytes=32 time=184ms TTL=57
+Reply from 23.192.54.52: bytes=32 time=180ms TTL=57
+
+Ping statistics for 23.192.54.52:
+    Packets: Sent = 4, Received = 3, Lost = 1 (25% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 7ms, Maximum = 184ms, Average = 123ms
+
+C:\Users\Aiswarya>ping www.amazon.com
+
+Pinging d3ag4hukkh62yn.cloudfront.net [13.225.231.227] with 32 bytes of data:
+Reply from 13.225.231.227: bytes=32 time=5ms TTL=239
+Reply from 13.225.231.227: bytes=32 time=5ms TTL=239
+Reply from 13.225.231.227: bytes=32 time=4ms TTL=239
+Reply from 13.225.231.227: bytes=32 time=4ms TTL=239
+
+Ping statistics for 13.225.231.227:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 5ms, Average = 4ms
+
+C:\Users\Aiswarya>
+C:\Users\Aiswarya>ping www.amazon.com
+
+Pinging d3ag4hukkh62yn.cloudfront.net [13.225.231.227] with 32 bytes of data:
+Reply from 13.225.231.227: bytes=32 time=5ms TTL=239
+Reply from 13.225.231.227: bytes=32 time=4ms TTL=239
+Reply from 13.225.231.227: bytes=32 time=4ms TTL=239
+Reply from 13.225.231.227: bytes=32 time=5ms TTL=239
+
+Ping statistics for 13.225.231.227:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 5ms, Average = 4ms
+
+C:\Users\Aiswarya>ping www.amazon.com
+
+Pinging d3ag4hukkh62yn.cloudfront.net [13.225.231.227] with 32 bytes of data:
+Reply from 13.225.231.227: bytes=32 time=4ms TTL=239
+Reply from 13.225.231.227: bytes=32 time=5ms TTL=239
+Reply from 13.225.231.227: bytes=32 time=7ms TTL=239
+Reply from 13.225.231.227: bytes=32 time=5ms TTL=239
+
+Ping statistics for 13.225.231.227:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 7ms, Average = 5ms
+
+C:\Users\Aiswarya>ping www.youtube.com
+
+Pinging youtube-ui.l.google.com [172.217.10.78] with 32 bytes of data:
+Reply from 172.217.10.78: bytes=32 time=4ms TTL=56
+Reply from 172.217.10.78: bytes=32 time=5ms TTL=56
+Reply from 172.217.10.78: bytes=32 time=4ms TTL=56
+Reply from 172.217.10.78: bytes=32 time=4ms TTL=56
+
+Ping statistics for 172.217.10.78:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 5ms, Average = 4ms
+
+C:\Users\Aiswarya>ping www.youtube.com
+
+Pinging youtube-ui.l.google.com [172.217.10.78] with 32 bytes of data:
+Reply from 172.217.10.78: bytes=32 time=6ms TTL=56
+Reply from 172.217.10.78: bytes=32 time=5ms TTL=56
+Reply from 172.217.10.78: bytes=32 time=5ms TTL=56
+Reply from 172.217.10.78: bytes=32 time=5ms TTL=56
+
+Ping statistics for 172.217.10.78:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 5ms, Maximum = 6ms, Average = 5ms
+
+C:\Users\Aiswarya>ping www.amazon.com
+
+Pinging e15316.e22.akamaiedge.net [23.192.54.52] with 32 bytes of data:
+Reply from 23.192.54.52: bytes=32 time=6ms TTL=57
+Reply from 23.192.54.52: bytes=32 time=7ms TTL=57
+Request timed out.
+Reply from 23.192.54.52: bytes=32 time=85ms TTL=57
+
+Ping statistics for 23.192.54.52:
+    Packets: Sent = 4, Received = 3, Lost = 1 (25% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 6ms, Maximum = 85ms, Average = 32ms
+
+C:\Users\Aiswarya>ping www.amazon.com
+
+Pinging e15316.e22.akamaiedge.net [23.192.54.52] with 32 bytes of data:
+Request timed out.
+Reply from 23.192.54.52: bytes=32 time=6ms TTL=57
+Reply from 23.192.54.52: bytes=32 time=6ms TTL=57
+Reply from 23.192.54.52: bytes=32 time=8ms TTL=57
+
+Ping statistics for 23.192.54.52:
+    Packets: Sent = 4, Received = 3, Lost = 1 (25% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 6ms, Maximum = 8ms, Average = 6ms
+
+C:\Users\Aiswarya>ping www.amazon.com
+
+Pinging e15316.e22.akamaiedge.net [23.192.54.52] with 32 bytes of data:
+Reply from 23.192.54.52: bytes=32 time=5ms TTL=57
+Reply from 23.192.54.52: bytes=32 time=5ms TTL=57
+Reply from 23.192.54.52: bytes=32 time=7ms TTL=57
+Reply from 23.192.54.52: bytes=32 time=5ms TTL=57
+
+Ping statistics for 23.192.54.52:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 5ms, Maximum = 7ms, Average = 5ms
+
+C:\Users\Aiswarya>
+

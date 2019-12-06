@@ -1,0 +1,91 @@
+Interval,NumBursts,App
+5,1,YT
+5,2,YT
+5,3,YT
+5,3,YT
+5,2,YT
+10,1,YT
+10,1,YT
+10,1,YT
+10,1,YT
+10,2,YT
+15,2,YT
+15,1,YT
+15,1,YT
+15,1,YT
+15,2,YT
+20,0,YT
+20,1,YT
+20,0,YT
+20,1,YT
+20,1,YT
+25,1,YT
+25,2,YT
+25,2,YT
+25,0,YT
+25,1,YT
+30,1,YT
+30,2,YT
+30,1,YT
+30,1,YT
+30,1,YT
+5,3,Netflix
+5,2,Netflix
+5,4,Netflix
+5,3,Netflix
+5,4,Netflix
+10,2,Netflix
+10,1,Netflix
+10,3,Netflix
+10,1,Netflix
+10,3,Netflix
+15,2,Netflix
+15,1,Netflix
+15,3,Netflix
+15,3,Netflix
+15,1,Netflix
+20,1,Netflix
+20,0,Netflix
+20,4,Netflix
+20,2,Netflix
+20,2,Netflix
+25,1,Netflix
+25,2,Netflix
+25,2,Netflix
+25,1,Netflix
+25,3,Netflix
+30,1,Netflix
+30,2,Netflix
+30,2,Netflix
+30,1,Netflix
+30,3,Netflix
+5,5,Amazon Prime
+5,8,Amazon Prime
+5,9,Amazon Prime
+5,7,Amazon Prime
+5,8,Amazon Prime
+10,4,Amazon Prime
+10,3,Amazon Prime
+10,7,Amazon Prime
+10,6,Amazon Prime
+10,5,Amazon Prime
+15,2,Amazon Prime
+15,3,Amazon Prime
+15,8,Amazon Prime
+15,5,Amazon Prime
+15,6,Amazon Prime
+20,2,Amazon Prime
+20,4,Amazon Prime
+20,5,Amazon Prime
+20,5,Amazon Prime
+20,6,Amazon Prime
+25,2,Amazon Prime
+25,2,Amazon Prime
+25,5,Amazon Prime
+25,4,Amazon Prime
+25,5,Amazon Prime
+30,1,Amazon Prime
+30,2,Amazon Prime
+30,3,Amazon Prime
+30,4,Amazon Prime
+30,4,Amazon Prime
